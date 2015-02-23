@@ -1,0 +1,3 @@
+# Ignore cred files
+/ruby/creds
+/python/creds.py
